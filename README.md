@@ -5,4 +5,4 @@ The compressive strength of cement is affected by several factors, including the
 
 The standard test method for determining the compressive strength of cement is ASTM C39, "Standard Test Method for Compressive Strength of Cylindrical Concrete Specimens." This test involves measuring the compressive strength of cylindrical concrete specimens that are made with the cement being tested. The test is typically performed on specimens that are cured for 28 days.
 
-Here we have used LinearRegression() from sklearn library of python to Predict the Concrete Compressive Strength(MPa, megapascals) of the cement using the Machine Learning 
+Here we have used "LinearRegression()" from sklearn library of python to Predict the "Concrete Compressive Strength(MPa, megapascals)" of the cement using the Machine Learning 
